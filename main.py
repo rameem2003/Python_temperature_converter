@@ -35,7 +35,7 @@ elif op == 2:
     c = (5*f - 160)/9
     print("The Celsius value is", c, "C")
 else:
-    print("Wrong value input")
+    print("Wrong value input. System stop.")
 
 
 
